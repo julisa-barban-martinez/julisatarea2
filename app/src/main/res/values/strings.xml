@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">julisatarea2</string>
+    <string name="title_activity_hola">holaActivity</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="titulo1">TESOEM</string>
+    <string name="texto2">nombre yo solo</string>
+    <string name="title_activity_">Activity</string>
+    <string name="texto3">pantalla 3</string>
+    <string name="txtnombre">Nombre yo solo</string>
+    <string name="btnsi">Siguiente</string>
+</resources>
